@@ -1,0 +1,20 @@
+canvas{
+    border: 2px solid black;
+   
+    
+}
+h1{
+    
+    text-align: center;
+}
+
+button{
+    
+    background-color:beige;
+    height:30px;
+    width: 60px;
+    float:right;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    
+}
